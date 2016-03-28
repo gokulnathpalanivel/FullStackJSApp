@@ -2,9 +2,9 @@
 End to End Javascript Sample Application
 
 Details of end to end stack:
-# Client side - Jade
-# Server side - Node
-# SQL - MongoDB
+1. Client side - Jade
+2. Server side - Node
+3. SQL - MongoDB
 
 Built in Express platform.
 
